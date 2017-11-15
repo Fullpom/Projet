@@ -1,1 +1,5 @@
-
+If a=b then
+  a+b=b+a
+else
+  a-b=0
+EndIf
